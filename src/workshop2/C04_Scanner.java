@@ -1,3 +1,5 @@
+package workshop2;
+
 import java.util.Scanner;
 
 public class C04_Scanner {

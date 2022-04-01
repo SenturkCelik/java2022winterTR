@@ -1,3 +1,5 @@
+package workshop2;
+
 public class Scan01 {
     public static void main(String[] args) {
 

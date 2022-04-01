@@ -1,3 +1,5 @@
+package workshop2;
+
 public class swapvariables {
     public static void main(String[] args) {
         int sayi1=10;

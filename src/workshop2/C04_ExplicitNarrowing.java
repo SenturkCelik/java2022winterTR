@@ -1,3 +1,5 @@
+package workshop2;
+
 public class C04_ExplicitNarrowing {
     public static void main(String[] args) {
 

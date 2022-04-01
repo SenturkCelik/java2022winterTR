@@ -1,3 +1,5 @@
+package workshop2;
+
 public class pratik1 {
     public static void main(String[] args) {
 
